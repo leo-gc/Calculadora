@@ -1,31 +1,31 @@
 public class Calculadora {
     //Soma
-    public float somar(float a, float b) {
+    public Double somar(Double a, Double b) {
         return a + b;
     }
 
     //Subtração
-    public float subtrair(float a, float b) {
+    public Double subtrair(Double a, Double b) {
         return a - b;
     }
 
     //Multiplicação
-    public float multiplicar(float a, float b) {
+    public Double multiplicar(Double a, Double b) {
         return a * b;
     }
 
     //Divisão
-    public float dividir(float a, float b) {
+    public Double dividir(Double a, Double b) {
         return a / b;
     }
 
     //Potenciação
-    public float potencia(float a, float b) {
-        return a ** b;
+    public Double potencia(Double a, Double b) {
+        return Math.pow(a, b);
     }
 
     //Radiciação
-    public float raiz(float a) {
+    public Double raiz(Double a) {
         return Math.sqrt(a);
     }
 }
