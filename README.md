@@ -1,7 +1,7 @@
-Leonardo Guilmo Chin – RA: 22.00512-9
-João Pedro Vassalo Alves – RA: 22.01751-8
-Gabriel Araujo Carrasco – RA: 22.00906-0
-Raynner Sanchez Rodrigues – RA: 22.01694-5
+Leonardo Guilmo Chin – RA: 22.00512-9 \n
+João Pedro Vassalo Alves – RA: 22.01751-8 \n
+Gabriel Araujo Carrasco – RA: 22.00906-0 \n
+Raynner Sanchez Rodrigues – RA: 22.01694-5 \n
 
 Imagem Inicial:
 ![image](https://user-images.githubusercontent.com/105380016/220906233-fa64d412-42b9-4b5f-aa73-468b2f94170b.png)
