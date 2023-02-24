@@ -1,6 +1,6 @@
 Leonardo Guilmo Chin – RA: 22.00512-9 <br>
 João Pedro Vassalo Alves – RA: 22.01751-8 <br>
-Gabriel Araujo Carrasco – RA: 22.00906-0 <br>
+Felipe Kenji Oshiro – RA: 22.01229-0 <br>
 Raynner Sanchez Rodrigues – RA: 22.01694-5 <br>
 
 Imagem Inicial:
